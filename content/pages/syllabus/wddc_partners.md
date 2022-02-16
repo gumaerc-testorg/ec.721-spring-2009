@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 82be7861-5c25-f2af-3bac-633b530a9fa3
 title: WDDC Partners
 uid: d0fcb7d6-5a3d-3f64-9a96-e052a3181682

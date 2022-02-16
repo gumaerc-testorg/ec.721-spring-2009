@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Related Resources
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Mobility Care - Wheelchair manufacturing
 uid: 1ec2def9-f83f-b8a4-a30f-8063cd9092d6

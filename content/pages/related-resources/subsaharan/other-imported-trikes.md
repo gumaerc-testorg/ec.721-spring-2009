@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Sub-Saharan Trikes
+parent_type: CourseSection
 parent_uid: 5e893a20-fdc7-e48f-7ebc-483ca976f0fc
 title: Other Imported Trikes
 uid: 6c09e2cd-dcea-37ca-c980-37fe90a597ce
@@ -10,7 +13,7 @@ Other Imported Trikes
 ---------------------
 
 These trikes are imported to Africa from unknown sources.
-{{< image-gallery id="6c09e2cd-dcea-37ca-c980-37fe90a597ce_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-721-wheelchair-design-in-developing-countries-spring-2009/" >}}
+{{< image-gallery id="6c09e2cd-dcea-37ca-c980-37fe90a597ce_nanogallery2" baseUrl="/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/" >}}
 {{< image-gallery-item href="1900b7a570b0c58d2d357b89e91eb3eb_Canada2.jpg" data-ngdesc="A trike imported from Canada (shop unknown)." text="A trike imported from Canada (shop unknown)." >}}
 {{< image-gallery-item href="945fa65bcac309c3b4c6a51a033b36b1_Canada5.jpg" data-ngdesc="A trike imported from Canada (shop unknown)." text="A trike imported from Canada (shop unknown)." >}}
 {{< image-gallery-item href="a593fe832a6065827dab02d48c8437cb_Canada8.jpg" data-ngdesc="A trike imported from Canada (shop unknown)." text="A trike imported from Canada (shop unknown)." >}}

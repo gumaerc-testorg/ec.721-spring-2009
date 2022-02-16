@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Sub-Saharan Trikes
+parent_type: CourseSection
 parent_uid: 5e893a20-fdc7-e48f-7ebc-483ca976f0fc
 title: Disacare
 uid: d1f4ad80-205e-6dae-99e7-7d8db5275775
@@ -10,7 +13,7 @@ Disacare
 --------
 
 These trikes are built by Disacare in Lusaka, Zambia.
-{{< image-gallery id="d1f4ad80-205e-6dae-99e7-7d8db5275775_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-721-wheelchair-design-in-developing-countries-spring-2009/" >}}
+{{< image-gallery id="d1f4ad80-205e-6dae-99e7-7d8db5275775_nanogallery2" baseUrl="/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/" >}}
 {{< image-gallery-item href="573a6fefeac4a634036f5677afc1c4b8_disacare1.jpg" data-ngdesc="A trike built by Disacare (Lusaka, Zambia)." text="A trike built by Disacare (Lusaka, Zambia)." >}}
 {{< image-gallery-item href="dcd4e04acdddee2be3a721b8971fd6c1_disacare2.jpg" data-ngdesc="A trike built by Disacare (Lusaka, Zambia)." text="A trike built by Disacare (Lusaka, Zambia)." >}}
 {{< image-gallery-item href="2116387d490dcf6c6d64b90c7d8b8c43_disacare3.jpg" data-ngdesc="A trike built by Disacare (Lusaka, Zambia)." text="A trike built by Disacare (Lusaka, Zambia)." >}}

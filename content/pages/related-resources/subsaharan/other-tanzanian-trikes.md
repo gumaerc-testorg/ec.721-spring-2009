@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Sub-Saharan Trikes
+parent_type: CourseSection
 parent_uid: 5e893a20-fdc7-e48f-7ebc-483ca976f0fc
 title: Other Tanzanian Trikes
 uid: 9bddd81f-6dc0-133c-cef0-fd83036b889a
@@ -10,7 +13,7 @@ Other Tanzanian Trikes
 ----------------------
 
 These trikes are from various other workshops in Tanzania: Jaffery Industries and Palray in Dar es Salaam, the UWZ Wheelchair Workshop in Stone Town, Zanzibar, and a trike from an unidentified shop in Mwanza.
-{{< image-gallery id="9bddd81f-6dc0-133c-cef0-fd83036b889a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-721-wheelchair-design-in-developing-countries-spring-2009/" >}}
+{{< image-gallery id="9bddd81f-6dc0-133c-cef0-fd83036b889a_nanogallery2" baseUrl="/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/" >}}
 {{< image-gallery-item href="686f48ec2b88b8608e5eee599d03fa3c_1-Jaffery1.jpg" data-ngdesc="Trikes from Jaffery Industries (Dar es Salaam, Tanzania)." text="Trikes from Jaffery Industries (Dar es Salaam, Tanzania)." >}}
 {{< image-gallery-item href="6924f4f1a92268c507da32f8f2c5db23_2-Jaffery2.jpg" data-ngdesc="Trikes from Jaffery Industries (Dar es Salaam, Tanzania)." text="Trikes from Jaffery Industries (Dar es Salaam, Tanzania)." >}}
 {{< image-gallery-item href="b93aac0f729bab08312591e13baedc50_3-Jaffery3.jpg" data-ngdesc="Trikes from Jaffery Industries (Dar es Salaam, Tanzania)." text="Trikes from Jaffery Industries (Dar es Salaam, Tanzania)." >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 ---
@@ -103,7 +105,7 @@ VIDEOS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Whirlwind's RoughRiderTM
+Whirlwind's RoughRider{{< sup "TM" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 This is a promotional video for Whirlwind's new chair, the RoughRider. (Courtesy of Whirlwind Wheelchair International. Used with permission.)
@@ -324,7 +326,7 @@ How Stuff Works lives up to its name. It is the best resource for finding out ho
 [McMaster Carr](http://www.mcmaster.com/)
 {{< tdclose >}}
 {{< tdopen >}}
-It's like a hardware store with 6.022X1023 different products.
+It's like a hardware store with 6.022X10{{< sup "23" >}} different products.
 {{< tdclose >}}
 
 {{< trclose >}}

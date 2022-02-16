@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 title: Sub-Saharan Trikes
 uid: 5e893a20-fdc7-e48f-7ebc-483ca976f0fc
@@ -12,7 +15,7 @@ ADPK
 ----
 
 These trikes are built by APDK (Association of the Physically Disabled in Kenya). Photos were taken in Nairobi, Kenya.
-{{< image-gallery id="5e893a20-fdc7-e48f-7ebc-483ca976f0fc_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-721-wheelchair-design-in-developing-countries-spring-2009/" >}}
+{{< image-gallery id="5e893a20-fdc7-e48f-7ebc-483ca976f0fc_nanogallery2" baseUrl="/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/" >}}
 {{< image-gallery-item href="95b7500cc80e220ce4b0c89d856cd91c_IMG_3923.jpg" data-ngdesc="Trike #2 by ADPK (Nairobi, Kenya)." text="Trike #2 by ADPK (Nairobi, Kenya)." >}}
 {{< image-gallery-item href="95c8dde04c445e1002a0fbb7b572085f_IMG_3927.jpg" data-ngdesc="Trike #2 by ADPK (Nairobi, Kenya)." text="Photo of steering assembly.Trike #2 by ADPK (Nairobi, Kenya)." >}}
 {{< image-gallery-item href="e74c27fc31016485b9cb11711495a64b_IMG_3930.jpg" data-ngdesc="Trike #2 by ADPK (Nairobi, Kenya)." text="Trike #2 by ADPK (Nairobi, Kenya)." >}}

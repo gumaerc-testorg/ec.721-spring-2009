@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-721-wheelchair-design-in-developing-countries-spring-2009/1823d8a67bfcf45db463e8bd3acea700_2Jaffery2.jpg
+file: /media/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/1823d8a67bfcf45db463e8bd3acea700_2Jaffery2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Image
 title: 2Jaffery2.jpg
 uid: 1823d8a6-7bfc-f45d-b463-e8bd3acea700
