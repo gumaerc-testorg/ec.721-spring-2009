@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This is a gallery of trikes built by DAGE (Disabled Aids and General
+  Engineering) in Dar es Salaam, Tanzania.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Sub-Saharan Trikes

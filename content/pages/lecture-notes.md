@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides slides from selected lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -29,9 +30,9 @@ TOPICS
 {{< tdopen >}}
 
 
-Introduction ([PDF - 3.7MB]({{< baseurl >}}/resources/mitec_721s09_lec01_part1))
+Introduction ({{% resource_link dc3b1d74-72b1-0d7d-4dbb-76163d083713 "PDF - 3.7MB" %}})
 
-Review potential projects ([PDF - 3.4MB]({{< baseurl >}}/resources/mitec_721s09_lec01_part2))
+Review potential projects ({{% resource_link 71d17c11-a321-2360-6e8d-3d467c7680e3 "PDF - 3.4MB" %}})
 
 
 {{< tdclose >}}
@@ -43,7 +44,7 @@ Review potential projects ([PDF - 3.4MB]({{< baseurl >}}/resources/mitec_721s09_
 {{< tdclose >}}
 {{< tdopen >}}
 Designing wheelchairs for the developing world; deterministic design process  
-_2007 slides_: ([PDF]({{< baseurl >}}/resources/mitec_721s09_lec04_design07))
+_2007 slides_: ({{% resource_link 76f35ccb-585e-3fce-5df9-af4fe0409bb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ _2007 slides_: ([PDF]({{< baseurl >}}/resources/mitec_721s09_lec04_design07))
 
 
 Guest speaker: Abdullah Munish  
-_2007 slides_: ([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_721s09_lec06_munish07))  
+_2007 slides_: ({{% resource_link 914caa02-48b0-0553-993d-0ca451f609a9 "PDF - 1.3MB" %}})  
 _Courtesy of Abdullah Munish_
 
 
@@ -68,7 +69,7 @@ _Courtesy of Abdullah Munish_
 {{< tdclose >}}
 {{< tdopen >}}
 Guest speakers: Amy Smith and Amy Banzaert - Appropriate technology, idea to product, successfully implementing technologies  
-_2007 slides_: ([PDF]({{< baseurl >}}/resources/mitec_721s09_lec08_at07))  
+_2007 slides_: ({{% resource_link f30d3ea4-0839-53dc-d724-ee9b58d10acc "PDF" %}})  
 _Courtesy of Amy Smith_
 {{< tdclose >}}
 
@@ -78,7 +79,7 @@ _Courtesy of Amy Smith_
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Wheelchair Biomechanics/Ergonomics and design for human use ([PDF ‑ 2.0MB]({{< baseurl >}}/resources/mitec_721s09_lec10_biomech))
+Wheelchair Biomechanics/Ergonomics and design for human use ({{% resource_link 89642785-2357-0e28-223d-218e1c6fc1f2 "PDF ‑ 2.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +88,7 @@ Wheelchair Biomechanics/Ergonomics and design for human use ([PDF ‑ 2.0MB]({{
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Material properties and performance ([PDF]({{< baseurl >}}/resources/mitec_721s09_lec19_matl))
+Material properties and performance ({{% resource_link 153bca53-4fdb-3d71-e99e-7c9e5a68d3f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

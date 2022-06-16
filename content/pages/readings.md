@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides schedule of course readings by lecture session
+  and topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -55,7 +57,7 @@ Wheelchair/Trike relay race around campus
 
 Information Package on Wheelchairs. International Society for Prosthetics and Orthotics 2005.
 
-Winter, Amos G., V. "Assessment of Wheelchair Technology in Tanzania." _International Journal for Service Learning in Engineering_ 2, no. 1 (Fall 2006): 60-77. ([PDF]({{< baseurl >}}/resources/mitec_721s09_read01_winter))
+Winter, Amos G., V. "Assessment of Wheelchair Technology in Tanzania." _International Journal for Service Learning in Engineering_ 2, no. 1 (Fall 2006): 60-77. ({{% resource_link a5c415ef-1019-9817-b953-f6339ff1c54a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -77,9 +79,9 @@ Guest speaker: Alison Hynd, MIT Public Service Center, on summer fellowships
 {{< tdopen >}}
 
 
-Wheelchair sections in Werner, David. "Nothing About Us Without Us: Developing Innovative Technologies For, By, and With Disabled Persons." ([PDF - 4.0MB]({{< baseurl >}}/resources/mitec_721s09_read02_nothing)) (Courtesy of David Werner.)
+Wheelchair sections in Werner, David. "Nothing About Us Without Us: Developing Innovative Technologies For, By, and With Disabled Persons." ({{% resource_link 16216e69-3d3c-5e48-1c3b-78a081a8ccb7 "PDF - 4.0MB" %}}) (Courtesy of David Werner.)
 
-2.007 lecture notes on design process ([PDF]({{< baseurl >}}/resources/mitec_721s09_read03_2007notes)) (Courtesy of Alex Slocum. Used with permission.)
+2.007 lecture notes on design process ({{% resource_link 12e857c4-01c2-a889-9c81-ec778437cefa "PDF" %}}) (Courtesy of Alex Slocum. Used with permission.)
 
 
 {{< tdclose >}}
@@ -99,7 +101,7 @@ Deterministic design process
 
 {{< tdclose >}}
 {{< tdopen >}}
-Watch videos of [wheelchair workshops]({{< baseurl >}}/pages/related-resources)
+Watch videos of {{% resource_link 1a64799d-8c43-b3cf-02d8-abe22053510c "wheelchair workshops" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ Strategy presentations
 {{< tdopen >}}
 
 
-_Independence through Mobility: A Guide to the Manufacture of the ATI-Hotchkiss Wheelchair (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](http://web.mit.edu/sp.784/www/DOCUMENTS/Independence%20through%20Mobility%20-%20Entire%20Document.pdf))_.
+_Independence through Mobility: A Guide to the Manufacture of the ATI-Hotchkiss Wheelchair ([PDF - 1.6MB](http://web.mit.edu/sp.784/www/DOCUMENTS/Independence%20through%20Mobility%20-%20Entire%20Document.pdf))_.
 
 Note: You are not required to read the whole document, but skim to see what info may be useful for your project.
 
@@ -239,7 +241,7 @@ Product design and critique of existing wheelchair designs
 Material science/mechanics of materials/welding with Mike Tarkanian
 {{< tdclose >}}
 {{< tdopen >}}
-Winter, Amos, and Ralf Hotchkiss. "Mechanical Principles of Wheelchair Design." ([PDF - 2.2MB]({{< baseurl >}}/resources/mitec_721s09_read04_mechprinc))
+Winter, Amos, and Ralf Hotchkiss. "Mechanical Principles of Wheelchair Design." ({{% resource_link e2b7b868-b2f7-a30c-df36-747c3edeea0a "PDF - 2.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

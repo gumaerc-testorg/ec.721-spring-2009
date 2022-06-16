@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes descriptions of proposed projects, selected 2009
+  projects, and an archive of selected projects from prior years.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ List of community partners and contact information
 Proposed Projects
 -----------------
 
-Students considered nine [project proposals]({{< baseurl >}}/pages/projects/project_proposals) at the start of the term, ultimately selecting four to be developed.
+Students considered nine {{% resource_link 2bc49b34-4888-65d6-309f-fe7a45dce6b8 "project proposals" %}} at the start of the term, ultimately selecting four to be developed.
 
 Milestone Schedule
 ------------------
@@ -44,11 +46,11 @@ Week 15: Final presentation of project with a working prototype
 Components
 ----------
 
-Components list with prices, for Kenya, Tanzania, and Zambia: proj\_complist.xls ([XLS]({{< baseurl >}}/resources/proj_complist))
+Components list with prices, for Kenya, Tanzania, and Zambia: proj\_complist.xls ({{% resource_link 92393c9c-0c88-e6d2-a1d2-c3b030bc5dda "XLS" %}})
 
 *   This file lists some available components with pricing for Kenya (bicycle, bearings, steel), Tanzania (bicycle), and Zambia (bicycle, bearings). Most steel components listed for Kenya are also available in Tanzania and Zambia; check with your partner contact if you have questions.
 
-Material analysis of commonly available mild steel tubing sizes, proj\_steel.xls ([XLS]({{< baseurl >}}/resources/proj_steel))
+Material analysis of commonly available mild steel tubing sizes, proj\_steel.xls ({{% resource_link 8530b4b3-9930-fc43-5286-961b922fd0b6 "XLS" %}})
 
 {{< anchor "2009_Project_Documentation" >}}{{< /anchor >}}2009 Projects
 -----------------------------------------------------------------------
@@ -83,7 +85,7 @@ This project continued the work of the 2008 handcycle attachment team, making se
 {{< tdopen >}}
 
 
-Power-assisted Tricycle (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/assist/uw_proj_beck.pdf))
+Power-assisted Tricycle ([PDF](http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/assist/uw_proj_beck.pdf))
 
 
 {{< tdclose >}}

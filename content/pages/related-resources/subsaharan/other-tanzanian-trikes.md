@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This gallery shows trikes from various workshops in Tanzania: Jaffery
+  Industries and Palray in Dar es Salaam, the UWZ Wheelchair Workshop in Stone Town,
+  Zanzibar, and a trike from an unidentified shop in Mwanza.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Sub-Saharan Trikes

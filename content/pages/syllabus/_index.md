@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, instructors
+  and mentors, course structure, grading, projects, team web sites, resources, fellowships,
+  and the schedule of course topics and project milestones.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -37,7 +40,7 @@ Team Mentors:
 *   Rory McCarthy — handcycle specialist, builder and racer
 *   Aaron Wheeler — wheelchair designer and appropriate technology specialist
 
-[WDDC Partners]({{< baseurl >}}/pages/syllabus/wddc_partners)
+{{% resource_link d0fcb7d6-5a3d-3f64-9a96-e052a3181682 "WDDC Partners" %}}
 
 Course Structure
 ----------------

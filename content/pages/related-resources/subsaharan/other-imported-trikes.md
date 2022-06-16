@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This gallery shows trikes imported to Africa from unknown sources.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Sub-Saharan Trikes

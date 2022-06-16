@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains image and video galleries on wheelchair design
+  in developing countries, promotional and demonstration videos, and links to related
+  web resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -9,7 +12,7 @@ uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 Image Gallery
 -------------
 
-[Sub-Saharan Trikes]({{< baseurl >}}/pages/related-resources/subsaharan)
+{{% resource_link 5e893a20-fdc7-e48f-7ebc-483ca976f0fc "Sub-Saharan Trikes" %}}
 
 These photos are a compilation of many tricycles seen by Amos Winter in Kenya, Tanzania, and Zambia over the past two years.
 
@@ -33,7 +36,7 @@ SUMMARIES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[APDK Handcycle manufacturing]({{< baseurl >}}/resources/apdk-handcycle-manufacturing)
+{{% resource_link a1fac90c-c9be-5389-a346-17aa9aeb4216 "APDK Handcycle manufacturing" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 This video shows the process of making a tricycle at APDK in Nairobi
@@ -42,7 +45,7 @@ This video shows the process of making a tricycle at APDK in Nairobi
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[APDK Wheelchair manufacturing]({{< baseurl >}}/resources/apdk-wheelchair-manufacturing)  
+{{% resource_link 10660fa0-e16d-fd68-45c2-6efb5f387b90 "APDK Wheelchair manufacturing" %}}  
  
 {{< tdclose >}}
 {{< tdopen >}}
@@ -52,7 +55,7 @@ This video shows the process of making a wheelchair at APDK in Nairobi
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[DAGE Handcycle manufacturing]({{< baseurl >}}/resources/dage-handcycle-manufacturing)  
+{{% resource_link 49d2faa4-73c6-0609-aa02-a46d20037ee1 "DAGE Handcycle manufacturing" %}}  
  
 {{< tdclose >}}
 {{< tdopen >}}
@@ -62,7 +65,7 @@ This video shows the process of making a tricycle at Disabled Aids and General E
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Mobility Care - Wheelchair manufacturing]({{< baseurl >}}/resources/mobility-care-wheelchair-manufacturing)
+{{% resource_link 1ec2def9-f83f-b8a4-a30f-8063cd9092d6 "Mobility Care - Wheelchair manufacturing" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 This video shows how Mobility Care makes a wheelchair
@@ -71,7 +74,7 @@ This video shows how Mobility Care makes a wheelchair
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Disacare - Wheelchair manufacturing]({{< baseurl >}}/resources/disacare-wheelchair-manufacturing)  
+{{% resource_link 95f49e36-d712-01ac-e8a7-cc379ccfa92f "Disacare - Wheelchair manufacturing" %}}  
  
 {{< tdclose >}}
 {{< tdopen >}}
@@ -111,7 +114,7 @@ Whirlwind's RoughRider{{< sup "TM" >}}
 This is a promotional video for Whirlwind's new chair, the RoughRider. (Courtesy of Whirlwind Wheelchair International. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Whirlwind's RoughRider]({{< baseurl >}}/resources/whirlwinds-roughrider)
+{{% resource_link 7463959a-ed98-3af0-a158-d9c4b418f224 "Whirlwind's RoughRider" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +126,7 @@ TOTEM RoughRider (Columbia)
 This promotional video is for Whirlwind's RoughRider, as produced in Columbia. (Courtesy of Whirlwind Wheelchair International. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[TOTEM RoughRider]({{< baseurl >}}/resources/totem-roughrider)
+{{% resource_link 0d3f269c-f1ea-62e3-02d1-0c2752a2f5fc "TOTEM RoughRider" %}}
 
 Perdomo, J., and the CRRV. "Whirlwind RoughRider wheelchair made in Colombia." September 23, 2006. Google Videos. Accessed September 10, 2009. [http://www.whirlwindwheelchair.org/video](https://whirlwindwheelchair.org/)
 
@@ -211,7 +214,7 @@ DESCRIPTIONS
 
 D-Lab is a program that fosters the development of appropriate technologies and sustainable solutions within the framework of international development. D-Lab’s mission is to improve the quality of life of low-income households through the creation and implementation of low cost technologies. D-Lab’s portfolio of technologies also serves as an educational vehicle that allows students to gain an optimistic and practical understanding of their roles in alleviating poverty.
 
-There are currently nine different academic offerings that make up the suite of D-Lab classes, falling into the broad categories of Development, Design and Dissemination. Several of these classes, including [EC.701 D-Lab I: Development](/courses/ec-701j-d-lab-i-development-fall-2009/), [EC.720J D-Lab II: Design](/courses/ec-720j-d-lab-ii-design-spring-2010/), and [EC.715 D-Lab: Disseminating Innovations for the Common Good](/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/), have been published in [MIT OpenCourseWare](/).
+There are currently nine different academic offerings that make up the suite of D-Lab classes, falling into the broad categories of Development, Design and Dissemination. Several of these classes, including [EC.701 D-Lab I: Development](/courses/ec-701j-d-lab-i-development-fall-2009), [EC.720J D-Lab II: Design](/courses/ec-720j-d-lab-ii-design-spring-2010), and [EC.715 D-Lab: Disseminating Innovations for the Common Good](/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007), have been published in [MIT OpenCourseWare](/).
 
 
 {{< tdclose >}}
@@ -229,7 +232,7 @@ Mobility Lab @ MIT website, including news from students, information about comm
 {{< tropen >}}
 {{< tdopen >}}
 2.007:  
-\- [2.007 on MIT OpenCourseWare](/courses/2-007-design-and-manufacturing-i-spring-2009/)  
+\- [2.007 on MIT OpenCourseWare](/courses/2-007-design-and-manufacturing-i-spring-2009)  
 \- [Archival documentary videos](https://video.odl.mit.edu/collections/a26ca9bd842a4c04a7f1526dca624536)
 {{< tdclose >}}
 {{< tdopen >}}

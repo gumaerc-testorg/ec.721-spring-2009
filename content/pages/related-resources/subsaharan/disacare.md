@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Gallery showing trikes built by Disacare in Lusaka, Zambia.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Sub-Saharan Trikes

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This is a gallery of many of the tricycles the professor has seen in
+  Kenya, Tanzania, and Zambia over the past two years.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources

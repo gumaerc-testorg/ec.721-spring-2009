@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides descriptions of project proposals for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

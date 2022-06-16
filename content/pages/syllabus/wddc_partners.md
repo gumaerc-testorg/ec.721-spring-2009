@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on Wheelchair Design in Developing
+  Countries (WDDC) partners around the world.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -9,7 +11,7 @@ title: WDDC Partners
 uid: d0fcb7d6-5a3d-3f64-9a96-e052a3181682
 ---
 
-![lec01_slide19.jpg]({{< resource_file 5504c29d-5e74-99e2-2118-cc9d4cce7ac3 >}})
+{{< resource 5504c29d-5e74-99e2-2118-cc9d4cce7ac3 >}}
 
 WDDC partners around the world. (Image by MIT OpenCourseWare.)  
 
