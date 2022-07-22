@@ -5,6 +5,7 @@ file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/71d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Review potential projects
 uid: 71d17c11-a321-2360-6e8d-3d467c7680e3
 ---
 This resource provides information about Review potential projects
-

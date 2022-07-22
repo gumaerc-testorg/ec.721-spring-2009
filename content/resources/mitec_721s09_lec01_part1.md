@@ -5,6 +5,7 @@ file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/dc3b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction
 uid: dc3b1d74-72b1-0d7d-4dbb-76163d083713
 ---
 The resource provides information about Introduction.
-

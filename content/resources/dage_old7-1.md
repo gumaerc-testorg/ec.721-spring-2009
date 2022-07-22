@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Closeup of the crank arms and sprocket.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: DAGE
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: DAGE_old7.jpg
 uid: eac0dcca-1199-9e88-f4de-8fabe0c7aabb
 ---
 A trike built by DAGE (Dar es Salaam, Tanzania).
-

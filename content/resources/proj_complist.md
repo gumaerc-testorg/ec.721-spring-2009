@@ -6,6 +6,7 @@ file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/9239
 file_type: application/msword
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: proj_complist.xls
 uid: 92393c9c-0c88-e6d2-a1d2-c3b030bc5dda
 ---
 This resource provides components list with prices, for Kenya, Tanzania and Zambia.
-

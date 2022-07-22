@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of a trike in use.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Imported Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Imported8.jpg
 uid: 4f034479-ad2a-f4bc-ece4-47dc666c8fe3
 ---
 A imported trike of unknown origin.
-

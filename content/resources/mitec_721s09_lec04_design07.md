@@ -6,6 +6,7 @@ file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/76f3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITEC_721S09_lec04_design07.pdf
 uid: 76f35ccb-585e-3fce-5df9-af4fe0409bb9
 ---
 This resource provides creative and analytical skills, and deterministic design process.
-

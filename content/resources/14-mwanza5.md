@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of trike in use.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Tanzanian Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 14-Mwanza5.jpg
 uid: 54353d04-8482-7f79-49d5-838ad3157984
 ---
 A trike in Mwanza, Tanzania (shop unknown).
-

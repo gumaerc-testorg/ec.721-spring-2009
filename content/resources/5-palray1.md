@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of trike in use.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Tanzanian Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 5-Palray1.jpg
 uid: 98cc4a1c-9e73-3cea-f32d-7eb4d7629ed1
 ---
 A trike from Palray (Dar es Salaam, Tanzania).
-

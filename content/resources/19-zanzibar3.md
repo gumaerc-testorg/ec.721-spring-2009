@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Side view of trike, rear wheel assembly.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Tanzanian Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 19-Zanzibar3.jpg
 uid: 5f3abb88-79cc-8a64-5835-1e19f6bf1549
 ---
 Trike made by the UWZ Wheelchair Workshop (Stone Town, Zanzibar, Tanzania).
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of a trike partially assembled.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Tanzanian Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 13-Palray_frames2.jpg
 uid: 388cde5d-02ce-664b-9bc2-75a9b6697e45
 ---
 A partially assembled trike at Palray (Dar es Salaam, Tanzania).
-

@@ -6,6 +6,7 @@ file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/f30d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: D-Lab
 uid: f30d3ea4-0839-53dc-d724-ee9b58d10acc
 ---
 The resource provides information about whirlwind wheelchairs, grameen phone, stakeholder and analysis of stakeholder.
-

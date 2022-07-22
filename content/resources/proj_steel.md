@@ -6,6 +6,7 @@ file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/8530
 file_type: application/msword
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: proj_steel.xls
 uid: 8530b4b3-9930-fc43-5286-961b922fd0b6
 ---
 This resource provides material analysis of commonly available mild steel tubing sizes.
-

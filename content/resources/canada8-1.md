@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of rear end with cargo space.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Imported Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Canada8.jpg
 uid: a593fe83-2a60-6582-7dab-02d48c8437cb
 ---
 A trike imported from Canada (shop unknown).
-

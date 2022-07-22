@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of front end.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Imported Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Canada5.jpg
 uid: 945fa65b-cac3-09c3-b4c6-a51a033b36b1
 ---
 A trike imported from Canada (shop unknown).
-

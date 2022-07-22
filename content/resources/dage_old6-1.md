@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of trike front end.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: DAGE
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: DAGE_old6.jpg
 uid: 729b592b-d2ab-2cdb-d6ad-59ededbd1f26
 ---
 A trike built by DAGE (Dar es Salaam, Tanzania).
-

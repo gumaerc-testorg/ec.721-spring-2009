@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of a brake lever.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Tanzanian Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 18-Zanzibar2.jpg
 uid: 7ef42d86-979a-8d34-93d9-6b85a1d4909e
 ---
 Trike made by the UWZ Wheelchair Workshop (Stone Town, Zanzibar, Tanzania).
-

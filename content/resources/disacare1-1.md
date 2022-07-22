@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Side view photo of trike.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Disacare
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disacare1.jpg
 uid: 573a6fef-eac4-a634-036f-5677afc1c4b8
 ---
 A trike built by Disacare (Lusaka, Zambia).
-

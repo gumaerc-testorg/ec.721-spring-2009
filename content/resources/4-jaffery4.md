@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of handcrank assembly.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Tanzanian Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 4-Jaffery4.jpg
 uid: 10533503-42f7-ac6f-5c9c-077fa33283a5
 ---
 Trikes from Jaffery Industries (Dar es Salaam, Tanzania).
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photo of a person driving their trike, with a pair of crutches in the
     rear cargo area.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: DAGE
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: DAGE_old5.jpg
 uid: 30ab7fec-be0d-60bd-e359-2d935707a376
 ---
 A trike built by DAGE (Dar es Salaam, Tanzania).
-

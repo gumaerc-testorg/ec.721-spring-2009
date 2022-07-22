@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of a person sitting in a trike by the side of road.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: DAGE
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: DAGE_old1.jpg
 uid: 50ce41c5-a6fa-665a-78b9-a5935fcc49eb
 ---
 A trike built by DAGE (Dar es Salaam, Tanzania).
-

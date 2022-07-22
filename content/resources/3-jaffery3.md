@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of trikes.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Other Tanzanian Trikes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 3-Jaffery3.jpg
 uid: b93aac0f-729b-ab08-3125-91e13baedc50
 ---
 Trikes from Jaffery Industries (Dar es Salaam, Tanzania).
-
