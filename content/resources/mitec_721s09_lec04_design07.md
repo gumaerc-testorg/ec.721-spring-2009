@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides creative and analytical skills, and deterministic
   design process.
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/76f35ccb585e3fce5df9af4fe0409bb9_MITEC_721S09_lec04_design07.pdf
+file_size: 1092259
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: The resource provides information about whirlwind wheelchairs, grameen
   phone, stakeholder and analysis of stakeholder.
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/f30d3ea4083953dcd724ee9b58d10acc_MITEC_721S09_lec08_at07.pdf
+file_size: 1093484
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
