@@ -2,6 +2,7 @@
 content_type: resource
 description: A trike built by DAGE (Dar es Salaam, Tanzania).
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/30ab7fecbe0d60bde3592d935707a376_DAGE_old5.jpg
+file_size: 109843
 file_type: image/jpeg
 image_metadata:
   caption: A trike built by DAGE (Dar es Salaam, Tanzania).

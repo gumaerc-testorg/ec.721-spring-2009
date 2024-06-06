@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/b5a37e91e61869d9f8bd41e4446a77cd_Canada8.jpg
+file_size: 31313
 file_type: image/jpeg
 image_metadata:
   caption: ''

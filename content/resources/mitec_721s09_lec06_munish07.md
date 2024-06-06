@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about wheelchair vs. tricycle, and
   importance of wheelchair and tricycle.
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/914caa0248b00553993d0ca451f609a9_MITEC_721S09_lec06_munish07.pdf
+file_size: 1364000
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
