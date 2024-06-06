@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/9dde68b4aa12fa1b1e59d1d7823e9936_19Zanzibar3.jpg
+file_size: 31551
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: A trike built by Disacare (Lusaka, Zambia).
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/2116387d490dcf6c6d64b90c7d8b8c43_disacare3.jpg
+file_size: 102526
 file_type: image/jpeg
 image_metadata:
   caption: A trike built by Disacare (Lusaka, Zambia).

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about Review potential projects
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/71d17c11a32123606e8d3d467c7680e3_MITEC_721S09_lec01_part2.pdf
+file_size: 3562127
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

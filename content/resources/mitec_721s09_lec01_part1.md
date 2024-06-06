@@ -2,6 +2,7 @@
 content_type: resource
 description: The resource provides information about Introduction.
 file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/dc3b1d7472b10d7d4dbb76163d083713_MITEC_721S09_lec01_part1.pdf
+file_size: 3911601
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
