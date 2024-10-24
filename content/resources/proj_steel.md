@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides material analysis of commonly available mild steel
   tubing sizes.
-file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/8530b4b39930fc435286961b922fd0b6_proj_steel.xls
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/8530b4b39930fc435286961b922fd0b6_proj_steel.xls
 file_size: 24064
 file_type: application/msword
 learning_resource_types:
