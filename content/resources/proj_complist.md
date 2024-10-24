@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides components list with prices, for Kenya, Tanzania
   and Zambia.
-file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/92393c9c0c88e6d2a1d2c3b030bc5dda_proj_complist.xls
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/92393c9c0c88e6d2a1d2c3b030bc5dda_proj_complist.xls
 file_size: 49664
 file_type: application/msword
 learning_resource_types:

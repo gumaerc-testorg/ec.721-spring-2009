@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A partially assembled trike at Palray (Dar es Salaam, Tanzania).
-file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/388cde5d02ce664b9bc275a9b6697e45_13-Palray_frames2.jpg
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/388cde5d02ce664b9bc275a9b6697e45_13-Palray_frames2.jpg
 file_size: 82930
 file_type: image/jpeg
 image_metadata:

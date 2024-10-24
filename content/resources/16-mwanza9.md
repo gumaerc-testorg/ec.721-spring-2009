@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A trike in Mwanza, Tanzania (shop unknown).
-file: /courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/0fd5faef18c7d83b039489e9e0eef36f_16-Mwanza9.jpg
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/0fd5faef18c7d83b039489e9e0eef36f_16-Mwanza9.jpg
 file_size: 100781
 file_type: image/jpeg
 image_metadata:
