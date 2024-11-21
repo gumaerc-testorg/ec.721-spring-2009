@@ -2,15 +2,16 @@
 content_type: page
 description: This is a gallery of many of the tricycles the professor has seen in
   Kenya, Tanzania, and Zambia over the past two years.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
 parent_type: CourseSection
 parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
+show_section_pages: true
 title: Sub-Saharan Trikes
 uid: 5e893a20-fdc7-e48f-7ebc-483ca976f0fc
 ---
-
 This is a compilation of many of the tricycles I have seen in Kenya, Tanzania, and Zambia over the past two years.
 
 ADPK
