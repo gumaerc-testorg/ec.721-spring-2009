@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A trike imported from Canada (shop unknown).
-file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/a593fe832a6065827dab02d48c8437cb_Canada8.jpg
+file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/a593fe832a6065827dab02d48c8437cb_Canada8.jpg
 file_size: 83873
 file_type: image/jpeg
 image_metadata:

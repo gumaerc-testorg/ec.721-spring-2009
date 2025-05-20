@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information about making wheelchairs from trash:
   innovations in war-torn Angola. '
-file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/16216e693d3c5e481c3b78a081a8ccb7_MITEC_721S09_read02_nothing.pdf
+file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/16216e693d3c5e481c3b78a081a8ccb7_MITEC_721S09_read02_nothing.pdf
 file_size: 4189844
 file_type: application/pdf
 learning_resource_types:

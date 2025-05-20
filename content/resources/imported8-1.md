@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A imported trike of unknown origin.
-file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/4f034479ad2af4bcece447dc666c8fe3_Imported8.jpg
+file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/4f034479ad2af4bcece447dc666c8fe3_Imported8.jpg
 file_size: 106131
 file_type: image/jpeg
 image_metadata:

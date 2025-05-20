@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Trike made by the UWZ Wheelchair Workshop (Stone Town, Zanzibar, Tanzania).
-file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/7ef42d86979a8d3493d96b85a1d4909e_18-Zanzibar2.jpg
+file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/7ef42d86979a8d3493d96b85a1d4909e_18-Zanzibar2.jpg
 file_size: 90008
 file_type: image/jpeg
 image_metadata:
