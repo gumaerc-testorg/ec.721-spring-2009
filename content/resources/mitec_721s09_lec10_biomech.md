@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about Wheelchair Biomechanics/Ergonomics
   and design for human use.
-file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/8964278523570e28223d218e1c6fc1f2_MITEC_721S09_lec10_biomech.pdf
+file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/8964278523570e28223d218e1c6fc1f2_MITEC_721S09_lec10_biomech.pdf
 file_size: 2059893
 file_type: application/pdf
 learning_resource_types:
