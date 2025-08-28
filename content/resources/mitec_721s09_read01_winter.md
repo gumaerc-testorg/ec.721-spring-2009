@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a brief introduction about results and discussion
   of wheelchair user interviews.
-file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/a5c415ef10199817b953f6339ff1c54a_MITEC_721S09_read01_winter.pdf
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/a5c415ef10199817b953f6339ff1c54a_MITEC_721S09_read01_winter.pdf
 file_size: 520004
 file_type: application/pdf
 learning_resource_types:

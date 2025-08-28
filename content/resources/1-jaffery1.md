@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Trikes from Jaffery Industries (Dar es Salaam, Tanzania).
-file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/686f48ec2b88b8608e5eee599d03fa3c_1-Jaffery1.jpg
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/686f48ec2b88b8608e5eee599d03fa3c_1-Jaffery1.jpg
 file_size: 90938
 file_type: image/jpeg
 image_metadata:
