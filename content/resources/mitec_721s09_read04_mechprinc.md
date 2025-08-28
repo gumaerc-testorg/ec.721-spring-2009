@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information about mechanical principles of wheel
   chair design. '
-file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/e2b7b868b2f7a30cdf36747c3edeea0a_MITEC_721S09_read04_mechprinc.pdf
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/e2b7b868b2f7a30cdf36747c3edeea0a_MITEC_721S09_read04_mechprinc.pdf
 file_size: 2298029
 file_type: application/pdf
 learning_resource_types:
