@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A trike from Palray (Dar es Salaam, Tanzania).
-file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/f0366ba3e1a327b8de2554e1215e8dd6_6-Palray2.jpg
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/f0366ba3e1a327b8de2554e1215e8dd6_6-Palray2.jpg
 file_size: 98989
 file_type: image/jpeg
 image_metadata:

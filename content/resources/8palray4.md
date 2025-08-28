@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/0d37c467e24b4daa2867f3a7a3083419_8Palray4.jpg
+file: /ol-ocw-studio-app/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/0d37c467e24b4daa2867f3a7a3083419_8Palray4.jpg
 file_size: 31465
 file_type: image/jpeg
 image_metadata:
