@@ -73,16 +73,16 @@ This promotional video is for Whirlwind's RoughRider, as produced in Columbia. (
 
 {{% resource_link "0d3f269c-f1ea-62e3-02d1-0c2752a2f5fc" "TOTEM RoughRider" %}}
 
-Perdomo, J., and the CRRV. "Whirlwind RoughRider wheelchair made in Colombia." September 23, 2006. Google Videos. Accessed September 10, 2009. {{% resource_link "08ed2176-f69c-4839-a75f-4d551ef689d7" "http://www.whirlwindwheelchair.org/video" %}}
+Perdomo, J., and the CRRV. "Whirlwind RoughRider wheelchair made in Colombia." September 23, 2006. Google Videos. Accessed September 10, 2009. [http://www.whirlwindwheelchair.org/video](https://whirlwindwheelchair.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Freedom Technology Tricycle Research
 {{< tdclose >}}{{< tdopen >}}
 This video is awesome! Freedom Technology is a wheelchair workshop in the Philippines. They did great research into user needs and came up with some awesome designs.
 {{< tdclose >}}{{< tdopen >}}
-mmccambridge. "tricycle research." March 15, 2007. YouTube. Accessed September 10, 2009. {{% resource_link "ba85ba8b-e30a-4d47-8e85-a731b2b571e4" "http://www.youtube.com/watch?v=UC1MgP2fXAQ" %}}
+mmccambridge. "tricycle research." March 15, 2007. YouTube. Accessed September 10, 2009. [http://www.youtube.com/watch?v=UC1MgP2fXAQ](http://www.youtube.com/watch?v=UC1MgP2fXAQ)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-MORPH handcycle by {{% resource_link "0fd2ff90-be99-4d97-ba7d-f074f3bba7d4" "Move With Freedom, Inc." %}}
+MORPH handcycle by [Move With Freedom, Inc.](https://morphhc.posthaven.com)
 {{< tdclose >}}{{< tdopen >}}
 Rory McCarthy, one of the class team mentors, is developing a new handcycle that can morph between a low position for long rides and a high position for maneuvering indoors. Check out the MORPH in action!
 {{< tdclose >}}{{< tdopen >}}
@@ -95,11 +95,11 @@ The Leveraged Freedom Chair (LFC) is a wheelchair-based mobility aid designed fo
 
 ### Proof of concept
 
-amosgwinter. "The Leveraged Freedom Chair." June 1, 2009. YouTube. Accessed September 10, 2009. {{% resource_link "65612237-b366-4c96-b1fb-76de241ec594" "http://www.youtube.com/watch?v=9tzhVIsjm6w" %}}
+amosgwinter. "The Leveraged Freedom Chair." June 1, 2009. YouTube. Accessed September 10, 2009. [http://www.youtube.com/watch?v=9tzhVIsjm6w](http://www.youtube.com/watch?v=9tzhVIsjm6w)
 
 ### LFC on a rough dirt road
 
-amosgwinter. "LFC trial in Nairobi, Kenya - August 2009." August 16, 2009. YouTube. Accessed September 10, 2009. {{% resource_link "c517ef8d-845f-4e0a-8624-12ada8ea7e74" "http://www.youtube.com/watch?v=ivuxAJjQ9Gs" %}}
+amosgwinter. "LFC trial in Nairobi, Kenya - August 2009." August 16, 2009. YouTube. Accessed September 10, 2009. [http://www.youtube.com/watch?v=ivuxAJjQ9Gs](http://www.youtube.com/watch?v=ivuxAJjQ9Gs)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -112,7 +112,7 @@ DESCRIPTIONS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **I. MIT resources**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "f8886dad-3136-4245-8ce1-1e82dc13e31f" "D-Lab" %}}
+[D-Lab](http://d-lab.mit.edu/)
 {{< tdclose >}}{{< tdopen >}}
 
 D-Lab is a program that fosters the development of appropriate technologies and sustainable solutions within the framework of international development. D-Lab’s mission is to improve the quality of life of low-income households through the creation and implementation of low cost technologies. D-Lab’s portfolio of technologies also serves as an educational vehicle that allows students to gain an optimistic and practical understanding of their roles in alleviating poverty.
@@ -120,13 +120,13 @@ D-Lab is a program that fosters the development of appropriate technologies and 
 There are currently nine different academic offerings that make up the suite of D-Lab classes, falling into the broad categories of Development, Design and Dissemination. Several of these classes, including [EC.701 D-Lab I: Development](/courses/ec-701j-d-lab-i-development-fall-2009), [EC.720J D-Lab II: Design](/courses/ec-720j-d-lab-ii-design-spring-2010), and [EC.715 D-Lab: Disseminating Innovations for the Common Good](/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007), have been published in [MIT OpenCourseWare](/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "422ba295-411e-4503-a3fa-95f6efaa8f82" "M-Lab" %}}
+[M-Lab](http://mlab.mit.edu/)
 {{< tdclose >}}{{< tdopen >}}
 Mobility Lab @ MIT website, including news from students, information about community partners across the globe, and work from previous class projects.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2.007:     
 \- [2.007 on MIT OpenCourseWare](/courses/2-007-design-and-manufacturing-i-spring-2009)     
-\- {{% resource_link "94c01b53-21f1-4bb6-a161-d0d012ee7a08" "Archival documentary videos" %}}
+\- [Archival documentary videos](https://video.odl.mit.edu/collections/a26ca9bd842a4c04a7f1526dca624536)
 {{< tdclose >}}{{< tdopen >}}
 This is the MIT mechanical engineering department's introduction to mechanical design. The lecture notes are the best compilation of design principles I have ever seen. Students build robots for a class project (where do you think I got the idea for our class?). You can find some really ingenious technical solutions in some of the robots.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -136,11 +136,11 @@ This is MIT's graduate product design class in mechanical engineering. It has ma
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **II. Disability and wheelchairs**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "d4dd1326-b223-4f9d-beab-566b1c952cbc" "Disability KAR" %}}
+[Disability KAR](http://www.disabilityrightsfund.org/)
 {{< tdclose >}}{{< tdopen >}}
 The Disability Knowledge and Research Web site has tons of academic articles and other useful info about disability around the world.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "b40ee2b5-35f1-4132-af8b-9747e3362e42" "Motivation" %}}
+[Motivation](http://www.motivation.org.uk/)
 {{< tdclose >}}{{< tdopen >}}
 The Motivation Web site has many wheelchair related articles and links to other disability organizations.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -150,55 +150,55 @@ The Whirlwind Wheelchair International Web site has many wheelchair related arti
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **III. General resources**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "6c885281-ee27-42eb-84b2-5996827b79c1" "Efunda" %}}
+[Efunda](http://www.efunda.com/home.cfm)
 {{< tdclose >}}{{< tdopen >}}
 Good place to look up analysis that has to do with engineering. Forget what stress is? efunda can tell you all about it.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "67eda9d3-87b5-4dd0-a6b6-7e12b977a1b0" "Google" %}}
+[Google](http://www.google.com/)
 {{< tdclose >}}{{< tdopen >}}
 If you have never used Google™, you probably grew up in a cave. It is the best search engine ever!!!
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "6fef6e55-f510-4df3-baec-79dfd7d8a2bf" "Google Scholar" %}}
+[Google Scholar](http://scholar.google.com/)
 {{< tdclose >}}{{< tdopen >}}
 Google Scholar is an easy way to get academic articles for free. It works just like regular Google.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "c3a03bec-d464-40a3-b042-e3c983608abf" "How Stuff Works" %}}
+[How Stuff Works](http://www.howstuffworks.com/)
 {{< tdclose >}}{{< tdopen >}}
 How Stuff Works lives up to its name. It is the best resource for finding out how different technical things work. This Web site will serve as the class text.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "5fd9daba-3019-4e6f-944d-d7d97da7bdf9" "McMaster Carr" %}}
+[McMaster Carr](http://www.mcmaster.com/)
 {{< tdclose >}}{{< tdopen >}}
 It's like a hardware store with 6.022X10{{< sup "23" >}} different products.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "886ba190-af6f-4092-b53e-05ec82888ac9" "Wikipedia" %}}
+[Wikipedia](http://www.wikipedia.org/)
 {{< tdclose >}}{{< tdopen >}}
 Wikipedia is great for learning a small amount about anything. Want to know when Thomas Edison invented the light bulb? This is the place to go.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "69411050-86d6-4c4d-b25f-7f4a7e10def2" "Matweb" %}}
+[Matweb](http://www.matweb.com/index.asp?ckck=1)
 {{< tdclose >}}{{< tdopen >}}
 Matweb is a great place to find material properties. They have information on just about any material you can imagine.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "7e337fb6-5a4e-41a3-a87b-2a95081656f0" "Math.com" %}}
+[Math.com](http://www.math.com/)
 {{< tdclose >}}{{< tdopen >}}
 This is a good place to look up mathematical concepts. You can quickly find things like common integrals or trig identities.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "1b1429c0-1198-424f-a7c9-518dbd01e16b" "USPTO" %}}
+[USPTO](http://www.uspto.gov/)
 {{< tdclose >}}{{< tdopen >}}
 At the U.S. Patent office, you can search for any patent issued from the 1700's till now. Looking through patents generates good ideas, and prevents you from reinventing the wheel. If you are thinking of designing a protective carrying case for your banana, sorry, it already exists: U.S. Patent number 6918231.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "4e1d528e-97bb-4021-98c7-3ccc034e4c22" "Free Patent Fetcher" %}}
+[Free Patent Fetcher](http://free.patentfetcher.com/)
 {{< tdclose >}}{{< tdopen >}}
 If you find a patent that looks sounds interesting, like a banana carrying case, Free Patent Fetcher is a really easy way to download it in pdf form.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "50cea892-d309-4317-9468-284a030e6130" "UNDP" %}}
+[UNDP](http://www.undp.org/)
 {{< tdclose >}}{{< tdopen >}}
 The United Nations Development Programme Web site has many articles about development.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "82ec7563-77d6-4e27-bf30-0d65138e40a6" "USAID" %}}
+[USAID](http://www.usaid.gov/)
 {{< tdclose >}}{{< tdopen >}}
 The United States Agency for International Development Web site is another resource with many articles about international development and disability.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "a8d3cafc-6e8a-4232-9e62-12fdfd6ce9f1" "World Bank" %}}
+[World Bank](http://www.worldbank.org/)
 {{< tdclose >}}{{< tdopen >}}
 This Web site is a resource for all kinds of info, including general statistics for every country.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

@@ -116,7 +116,7 @@ Each group will need to produce the following deliverables:
 
 ## Team Web Sites
 
-Each team is required to make a Web site defining their project, introducing the team members, and chronicling the development of each milestone. The purpose of this requirement is to make all of the technology from WDDC opensource for the rest of the world. A Web site update will be due at each project milestone. Summer fellows that continue WDDC projects will be required to update the Web site corresponding to their project with their summer work. Teams' Web sites will be posted on the {{% resource_link "74a42a36-7cce-4c7d-b4ce-381bfbf82f60" "MIT Mobility Lab Web site" %}}.
+Each team is required to make a Web site defining their project, introducing the team members, and chronicling the development of each milestone. The purpose of this requirement is to make all of the technology from WDDC opensource for the rest of the world. A Web site update will be due at each project milestone. Summer fellows that continue WDDC projects will be required to update the Web site corresponding to their project with their summer work. Teams' Web sites will be posted on the [MIT Mobility Lab Web site](https://mobility.mit.edu).
 
 ## Resources
 
@@ -146,7 +146,7 @@ Utilize your Mentors, Community Partners, and Lab Instructors to the fullest. Th
 
 ## Fellowships
 
-WDDC has funding to support students for Summer 2009 to implement technology generated in the class into partner wheelchair workshops. More fellowships through the {{% resource_link "8b6d818c-0c02-4a60-bdf9-1afbd0e33d2f" "MIT Public Service Center" %}} may be available depending on the strength of each student's application. Those who would like a fellowship will have to propose a project (most likely a continuation of their class project) within the guidelines of one of the PSC fellowships (Independent, Network, or Focus). To be fair to all interested students, proposals will be submitted to, judged by, and awarded through the PSC. Alison Hynd, coordinator for the fellowships and the IDEAS competition, will be coming to class to talk about all funding opportunities to continue work from WDDC.
+WDDC has funding to support students for Summer 2009 to implement technology generated in the class into partner wheelchair workshops. More fellowships through the [MIT Public Service Center](https://pkgcenter.mit.edu/) may be available depending on the strength of each student's application. Those who would like a fellowship will have to propose a project (most likely a continuation of their class project) within the guidelines of one of the PSC fellowships (Independent, Network, or Focus). To be fair to all interested students, proposals will be submitted to, judged by, and awarded through the PSC. Alison Hynd, coordinator for the fellowships and the IDEAS competition, will be coming to class to talk about all funding opportunities to continue work from WDDC.
 
 ## Calendar
 
