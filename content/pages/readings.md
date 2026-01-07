@@ -53,7 +53,7 @@ Wheelchair/Trike relay race around campus
 {{< tdopen >}}
 
 
-"{{% resource_link "a031704b-e26e-46d8-b7d7-3f50351d6376" "Wheelchair Standards Organizing Committee Formed" %}}." Whirlwind Wheelchairs International. Press Release, September 27, 2005.
+"[Wheelchair Standards Organizing Committee Formed](http://web.archive.org/web/20100305121241/http://www.whirlwindwheelchair.org/newsarticles/recent/news_r05.htm)." Whirlwind Wheelchairs International. Press Release, September 27, 2005.
 
 Information Package on Wheelchairs. International Society for Prosthetics and Orthotics 2005.
 
@@ -143,7 +143,7 @@ Strategy presentations
 {{< tdopen >}}
 
 
-_Independence through Mobility: A Guide to the Manufacture of the ATI-Hotchkiss Wheelchair ({{% resource_link "f6e76320-6df8-4504-8c3c-adddba641df7" "PDF - 1.6MB" %}})_.
+_Independence through Mobility: A Guide to the Manufacture of the ATI-Hotchkiss Wheelchair ([PDF - 1.6MB](http://web.mit.edu/sp.784/www/DOCUMENTS/Independence%20through%20Mobility%20-%20Entire%20Document.pdf))_.
 
 Note: You are not required to read the whole document, but skim to see what info may be useful for your project.
 
@@ -265,7 +265,7 @@ Material science/mechanics of materials/welding with Mike Tarkanian
 Watch "Murderball" in class
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "042f2b72-70e6-4d96-874e-7ee1334a9ce8" "_Murderball_" %}}. Directed by Henry Alex Rubin and Dana Adam Shapiro. 2005
+[_Murderball_](http://www.imdb.com/title/tt0436613/). Directed by Henry Alex Rubin and Dana Adam Shapiro. 2005
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +277,7 @@ Watch "Murderball" in class
 Finish "Murderball" and watch parts of "Emanuel's Gift"
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "bc9f8649-b371-496e-8ed0-6ebf58da8d53" "_Emmanuel's Gift_" %}}. Directed by Lisa Lax and Nancy Stern. 2005.
+[_Emmanuel's Gift_](http://www.imdb.com/title/tt0447016/). Directed by Lisa Lax and Nancy Stern. 2005.
 {{< tdclose >}}
 
 {{< trclose >}}
