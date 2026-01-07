@@ -85,7 +85,7 @@ This project continued the work of the 2008 handcycle attachment team, making se
 {{< tdopen >}}
 
 
-Power-assisted Tricycle ({{% resource_link "56c7446d-abbf-446a-b50f-b8ef597829d5" "PDF" %}})
+Power-assisted Tricycle ([PDF](http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/assist/uw_proj_beck.pdf))
 
 
 {{< tdclose >}}
@@ -141,7 +141,7 @@ DESCRIPTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "b59825c2-2b33-4a0a-9336-9ec9d16923dc" "Folding 3-Wheeled Wheelchair" %}}
+[Folding 3-Wheeled Wheelchair](http://wddc.foldingwc.googlepages.com/)
 {{< tdclose >}}
 {{< tdopen >}}
 This project designed a new frame that will allow three-wheeled wheelchairs to fold small enough to be used on public transportation.
@@ -152,7 +152,7 @@ This project designed a new frame that will allow three-wheeled wheelchairs to f
 {{< tdopen >}}
 
 
-{{% resource_link "38936ec8-e231-4d0b-9409-abc17396399b" "Handcycle Attachment" %}}
+[Handcycle Attachment](http://mit.tricycle.googlepages.com/home)
 
 
 {{< tdclose >}}
@@ -165,7 +165,7 @@ This project designed a handcycle attachment for a for standard 4-wheel wheelcha
 {{< tdopen >}}
 
 
-{{% resource_link "c9036826-ef1a-4649-ac2e-bd3339a1140f" "Small Business Attachments for Wheelchairs" %}}
+[Small Business Attachments for Wheelchairs](http://jruzevick.googlepages.com/proposedsolution)
 
 
 {{< tdclose >}}
@@ -189,7 +189,7 @@ This project designed a Web-based network that allows donors to fund the purchas
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "859af506-3368-44be-b06f-37696568b342" "Wheelchair Accessories for Women" %}}
+[Wheelchair Accessories for Women](http://wddc.women.googlepages.com/title)
 {{< tdclose >}}
 {{< tdopen >}}
 This project designed a device (a box attachment) for women to help them carry various objects around in a wheelchair.
@@ -204,7 +204,7 @@ This project designed a device (a box attachment) for women to help them carry v
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "70578ab5-6835-4c7f-8877-0aabcec27607" "2-speed tricycle drivetrain" %}}
+[2-speed tricycle drivetrain](http://web.mit.edu/sp.784/www/Class%20Projects/2-speed%20trike/2-speed%20trike.html)
 {{< tdclose >}}
 {{< tdopen >}}
 Students designed a 2-speed "figure-eight" drivetrain for hand-powered tricycles. The drivetrain works by combining a series of bicycle freewheels to obtain one speed by pedaling forwards and one by pedaling backwards, all without a derailleur.
@@ -213,7 +213,7 @@ Students designed a 2-speed "figure-eight" drivetrain for hand-powered tricycles
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "00f73142-c50f-4064-abed-cdc46c39910d" "Folding 3-wheeled wheelchair" %}}
+[Folding 3-wheeled wheelchair](http://web.mit.edu/sp.784/www/Class%20Projects/Folding%20WC/Folding%20WC.html)
 {{< tdclose >}}
 {{< tdopen >}}
 This project designed a folding system for 3-wheeled wheelchairs built in Africa. Enabling the chair to fold greatly increases how easily it can be transported on a bus or in the trunk of a taxi. The key of the team's design is a novel joint/coupling that uses stacked angle iron to exactly constrain the front wheel to the frame. This design can be retrofitted onto any existing African-made 3-wheelers.
@@ -222,7 +222,7 @@ This project designed a folding system for 3-wheeled wheelchairs built in Africa
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "cfc5f235-7f05-4c84-87c2-3fb958ba0bf5" "Improved tricycle frame" %}}
+[Improved tricycle frame](http://web.mit.edu/sp.784/www/Class%20Projects/Trike%20frame/Trike%20frame.html)
 {{< tdclose >}}
 {{< tdopen >}}
 This project designed a new tricycle frame that is stronger and lighter than currently produced frames. They analyzed available materials in Africa and generated a comparison of strength/weight, cost/weight, etc. to find the most appropriate tubing for use in mobility aids. Elements of their design were incorporated into the APDK 2-speed tricycle.
@@ -231,7 +231,7 @@ This project designed a new tricycle frame that is stronger and lighter than cur
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "f5fbf8a4-bc09-4e1f-8def-f7f338ed7b9d" "Marketing strategies" %}}
+[Marketing strategies](http://web.mit.edu/sp.784/www/Class%20Projects/Marketing/Marketing.html)
 {{< tdclose >}}
 {{< tdopen >}}
 The aim of this project was to improve marketing strategies of small wheelchair workshops. The team produced a logo and brochure for the KCMC wheelchair workshop, as well an info packet that informs wheelchair users about issues that may arise from a poorly fitted wheelchair. All of the materials have been translated into Swahili and printed in Tanzania. A student who continued this project as a summer fellowship also produced a manual that teaches people how to make and post a Web site from an internet cafe for free.
